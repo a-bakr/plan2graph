@@ -1,0 +1,15 @@
+pydantic 
+
+langchain 
+langchain-core
+langchain-openai 
+instructor
+google-generativeai
+
+graphviz 
+networkx 
+matplotlib
+
+plotly 
+gradio
+dotenv
